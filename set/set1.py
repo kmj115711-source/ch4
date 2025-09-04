@@ -16,3 +16,7 @@ print(s3) #{1, 2, 3}
 # set은 순서가 없다
 s4 = set('string')
 print(s4) #{'n', 'r', 't', 's', 'g', 'i'}
+
+# set은 [중복 불가, 순서 없음]
+s5 = set('hello')
+print(s5) #{'h', 'e', 'o', 'l'}
