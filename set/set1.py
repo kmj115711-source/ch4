@@ -11,6 +11,7 @@ print(s2,type(s2))  # <class 'dict'>
 # list -> set
 s3 = set([1,2,3])
 print(s3) #{1, 2, 3}
+
 # string -> set
 # 문자열의 문자들이 쪼개져서 set으로 저장 됨
 # set은 순서가 없다
